@@ -16,7 +16,7 @@ class zcl_349_carga_bib_t100578 implementation.
 
   method if_oo_adt_classrun~main.
 
-    "NEW CHANGE
+    "NEW CHANGE1
 
     data: lt_acc_categ type table of z349_accateg_578,
           lt_catego    type table of z349_catego_578,
